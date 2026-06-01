@@ -15,6 +15,8 @@ The dataset includes vulnerabilities reported from **2002 to 2024**, and data ha
 ## Companion to Conference Submission
 
 This dataset accompanies the manuscript submitted to the **16th International Conference on Global Security, Safety & Sustainability (ICGS3)** in the UK. The manuscript details the methodology used to identify, classify, and analyze these vulnerabilities, and provides insights into systemic risks within connected vehicle ecosystems.
+
+Link to manuscript: https://link.springer.com/chapter/10.1007/978-3-031-82031-1_13
   
 ## License
 
